@@ -1,0 +1,10 @@
+{
+  "camera_index": 0,
+  "preview_scale": 0.9,
+  "detect_scale": 0.6,
+  "overlay": { "boxes": true, "labels": true },
+  "persona": "friend",        
+  "tip_cooldown": 5.0,
+  "tts": { "voice": "Zira", "rate": 1.06, "volume": 1.0 }
+  
+}
